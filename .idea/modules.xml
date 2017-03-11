@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FastCamp_android_04.iml" filepath="$PROJECT_DIR$/FastCamp_android_04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d02_activityjumptest/d02_activityjumptest.iml" filepath="$PROJECT_DIR$/d02_activityjumptest/d02_activityjumptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d02_activityresult/d02_activityresult.iml" filepath="$PROJECT_DIR$/d02_activityresult/d02_activityresult.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d02_intenttest/d02_intenttest.iml" filepath="$PROJECT_DIR$/d02_intenttest/d02_intenttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d02_keycallbacktest/d02_keycallbacktest.iml" filepath="$PROJECT_DIR$/d02_keycallbacktest/d02_keycallbacktest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/d02_linearlayouttest/d02_linearlayouttest.iml" filepath="$PROJECT_DIR$/d02_linearlayouttest/d02_linearlayouttest.iml" />
+    </modules>
+  </component>
+</project>

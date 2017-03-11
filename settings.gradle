@@ -1,0 +1,1 @@
+include ':app', ':d02_intenttest', ':d02_activityjumptest', ':d02_activityresult', ':d02_keycallbacktest', ':d02_linearlayouttest'
